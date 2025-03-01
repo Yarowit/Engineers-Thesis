@@ -1,4 +1,5 @@
 ***Algorithms for the minimum genus of a graph***
+
 *Jarosław Grzegorz Socha*
 
 The thesis explores usage of quantum annealing for theminimum genus of a graph problem (see Thesis.pdf)
